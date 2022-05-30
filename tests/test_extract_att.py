@@ -1,7 +1,7 @@
 from unittest import TestCase
 import requests
 from bs4 import BeautifulSoup
-from fifa_pack import extract_att
+from fifa_pack.extract_att import extract_att
 
 
 class Test(TestCase):
