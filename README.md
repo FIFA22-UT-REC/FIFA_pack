@@ -18,7 +18,7 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 ## License
 
-`fifa_pack` was created by chole Zhang Jinghan Xu Mingting Fu MukeW Wang ShiyangZhang Tony Liang. It is licensed under the terms of the MIT license.
+`fifa_pack` was created by Chole Zhang， Jinghan Xu， Mingting Fu， Muke Wang， Shiyang Zhang， Tony Liang. It is licensed under the terms of the MIT license.
 
 ## Credits
 
